@@ -1,5 +1,11 @@
 # ChatGPT
 The series evaluation of ChatGPT
+测评数据集公开
+#中文生成任务数据集
+【点击阅读原文获取】：https://mp.weixin.qq.com/s/fb09_kAVeBmkDs_ll9Y8vQ
+#中文对话任务数据集
+【点击阅读原文获取】：https://mp.weixin.qq.com/s/ZjZgMZIXiD966hcFua_gew
+
 
 2、更新日期 2022年12月16日
 #ChatGPT在内容创作方面的能力如何？
